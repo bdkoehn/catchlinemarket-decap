@@ -1,6 +1,6 @@
 backend:
-  name: catchlinemarket-decap
-  repo: "bdkoehn/catchlinemarket-decap"
+  name: github
+  repo: bdkoehn/catchlinemarket-decap
   branch: main
 
 media_folder: 'src/assets/images'
