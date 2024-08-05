@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: bdkoehn/catchlinemarket-decap
   branch: main
 
 media_folder: 'src/assets/images'
